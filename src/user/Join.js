@@ -36,6 +36,7 @@ const Join=()=> {
 
    // 의미없는 이벤트 방지
    alert("입력해라");
+   console.log("입려가할고");
    e.preventDefault();
 
    let user = {
